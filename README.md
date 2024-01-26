@@ -1,6 +1,7 @@
+![MasterHead](https://lh3.googleusercontent.com/pw/ABLVV85SiEkBsLRJuSLnR6DBBqjRKCl2k4FLSTinSP9EImkWuMtXqGr7wbCHgREKSctSLA40MNmtH-bfMek3_5A1Uqv6qtJUisBBfiLTKMFjs3weystlfydKMdLL88t_PGtD1On6AhfYdnkEAr0V5yLWoQs=w1256-h325-s-no-gm?authuser=0)
 <h1 align="center">Hi 👋, I'm Joseph Kalayathankal Saji</h1>
 <h3 align="center">Passionate 🖥️ Full Stack Developer | 📱 Mobile App Developer | 📚 Continuous Learner and Technology Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif)">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josephks10&label=Profile%20views&color=0e75b6&style=flat" alt="josephks10" /> </p>
 
