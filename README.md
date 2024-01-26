@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joseph Kalayathankal Saji</h1>
 <h3 align="center">Passionate 🖥️ Full Stack Developer | 📱 Mobile App Developer | 📚 Continuous Learner and Technology Enthusiast</h3>
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josephks10&label=Profile%20views&color=0e75b6&style=flat" alt="josephks10" /> </p>
 
