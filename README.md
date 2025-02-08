@@ -5,21 +5,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josephks10&label=Profile%20views&color=0e75b6&style=flat" alt="josephks10" /> </p>
 
-- 🎓 I'm currently in my final year B.Tech. in Computer Science Engineering from Vellore Institute of Technology, Vellore
+- 🎓 I'm currently in pursuing my Master of Information Technology (Professional) from Deakin University Melbourne Burwood Campus
 
-- 🌱 Always learning **something new**
+- Finished my B.Tech. in Computer Science Engineering from Vellore Institute of Technology, Vellore
 
-- 👯 I’m currently working on my portfolio website [Portfolio](https://github.com/JosephKS10/Portfolio)
+- Always learning **something new**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JosephKS10?tab=repositories](https://github.com/JosephKS10?tab=repositories)
+- All of my projects are available at [https://github.com/JosephKS10?tab=repositories](https://github.com/JosephKS10?tab=repositories)
 
 - 💬 Feel free to reach out with questions or inquiries related to **React.js, React Native, and Node.js**
 
 - 📫 How to reach me **josephksaji1812@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wVrbYYbv42XrPc_DECz_TOiW_Ioj_59Q/view?usp=sharing](https://drive.google.com/file/d/1wVrbYYbv42XrPc_DECz_TOiW_Ioj_59Q/view?usp=sharing)
-
-- ⚡ Fun fact **Did you know that I once debugged a particularly tricky issue by taking inspiration from a recipe? Just like combining ingredients in cooking, sometimes the right mix of code snippets can create a perfect solution!**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1jn86FuLjIc17fSUOhoryo9QdRQU3Uow8/view?usp=sharing](https://drive.google.com/file/d/1jn86FuLjIc17fSUOhoryo9QdRQU3Uow8/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
